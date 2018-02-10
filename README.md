@@ -16,4 +16,4 @@ I have written a complete article on this application in three parts, for more d
 
 # Looking for Angular 2 and above
 I have written this application in Angular as well, [Read this popular Blog post](http://www.codershood.info/2017/02/09/real-time-private-chatting-app-using-angular-2-nodejs-mongodb-socket-io-part-1/).
-Alternatively, you can download an **Ebook** for the same application, along with Ebook you will get the source code of the application. In the ebook, you will get some of the must-have features such as notifications and online/offline chat list.
+Alternatively, you can download an **[Ebook](http://www.codershood.info)** for the same application, along with Ebook you will get the source code of the application. In the ebook, you will get some of the must-have features such as notifications and online/offline chat list.

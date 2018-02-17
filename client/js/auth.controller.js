@@ -19,7 +19,6 @@ app.controller('authController', function ($scope, $location, $timeout, appServi
     let TypeTimer;
     const TypingInterval = 800;
     /* usernamme check variables ends*/
-
     
     $scope.initiateCheckUserName = () => {
         $scope.data.usernameAvailable = false;

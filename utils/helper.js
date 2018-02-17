@@ -68,7 +68,6 @@ class Helper{
 	}
 
 	getChatList(userId, userSocketId){
-		console.log(userId, userSocketId);
 		try {
 			return Promise.all([
 				this.db.query(`SELECT id,username,online,socketid FROM user WHERE id = ?`, [userId]),

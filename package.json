@@ -1,21 +1,20 @@
 {
-  "name": "private-chat-app-using-angularjs-nodejs-and-mongodb",
-  "version": "1.0.0",
-  "description": "This is a private chat application in angularjs and nodejs using Mysql as database.",
-  "main": "server.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Shashank Tiwari",
-  "license": "ISC",
-  "dependencies": {
-    "bluebird": "^3.5.1",
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "mysql": "^2.15.0",
-    "socket.io": "^2.0.4"
-  },
-  "devDependencies": {
-    "eslint": "^4.16.0"
-  }
+	"name": "private-chat-app-using-angularjs-nodejs-and-mongodb",
+	"version": "1.0.0",
+	"description": "This is a private chat application in angularjs and nodejs using Mysql as database.",
+	"main": "server.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Shashank Tiwari",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "^1.18.2",
+		"express": "^4.16.2",
+		"mysql": "^2.15.0",
+		"socket.io": "^2.0.4"
+	},
+	"devDependencies": {
+		"eslint": "^4.16.0"
+	}
 }

@@ -1,3 +1,7 @@
+/**
+* Real Time chatting app
+* @author Shashank Tiwari
+*/
 const mysql = require('mysql');
 
 class Db {

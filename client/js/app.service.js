@@ -1,3 +1,8 @@
+/**
+* Real Time chatting app
+* @author Shashank Tiwari
+*/
+
 'use strict';
 
 class AppService{

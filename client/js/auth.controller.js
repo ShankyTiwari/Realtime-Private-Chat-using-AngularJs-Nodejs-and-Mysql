@@ -1,3 +1,8 @@
+/**
+* Real Time chatting app
+* @author Shashank Tiwari
+*/
+
 'user strict';
 
 app.controller('authController', function ($scope, $location, $timeout, appService) {

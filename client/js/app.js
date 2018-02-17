@@ -1,3 +1,8 @@
+/**
+* Real Time chatting app
+* @author Shashank Tiwari
+*/
+
 'use strict';
 const app = angular.module('app', ['ngRoute', 'ui.bootstrap']);
 

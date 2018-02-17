@@ -1,3 +1,8 @@
+/**
+* Real Time chatting app
+* @author Shashank Tiwari
+*/
+
 'user strict';
 
 app.controller('homeController', function ($scope, $routeParams, $location, appService){
@@ -12,8 +17,7 @@ app.controller('homeController', function ($scope, $routeParams, $location, appS
         messages: []
     };
 
-    appService.connectSocketServer(UserId); 
-
+    appService.connectSocketServer(UserId);
 
     appService.httpCall({
         url: '/userSessionCheck',
